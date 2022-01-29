@@ -1,6 +1,6 @@
 # Health survey analysis
 
-A survey conducted by a medical institution about some patients who suffer from Crohn’s or Ulcerative colitis disease.\newline
+A survey conducted by a medical institution about some patients who suffer from Crohn’s or Ulcerative colitis disease.
 		
 The institution asking for 6 visuals clarifying some insights about the survey.
 
