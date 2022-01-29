@@ -1,8 +1,26 @@
 # Health survey analysis
 
+A survey conducted by a medical institution about some patients who suffer from Crohn’s or Ulcerative colitis disease.\newline
+		
+The institution asking for 6 visuals clarifying some insights about the survey.
+
+</br>
+</br>
+
+## Dataset
 Dataset is made up of around 33,000 patients who answered a survey about their health all participants suffer from either Crohn’s or Ulcerative colitis disease (both IBD diseases). 
 
-The analysis contains 6 charts describing the insights needed to understand the data answering the questions in the proposal.
+</br>
+</br>
+
+## Questions
+- Question 1: Table and insight fact to show age of participants and BMI.
+- Question 2: Which type of IBD tends to have sufferers of a higher BMI?
+- Question 3: Which type of IBD has more sufferers that smoke or previously smoked?
+- Question 4: Which type of IBD has more cancer sufferers?
+- Question 5: Which type of IBD has more heart disease sufferers?
+- Question 6: Which age group is most effected by Ulcerative colitis        (diagnosis type 2 in dataset) ? (comparing male and female)
+
 
 </br>
 </br>
